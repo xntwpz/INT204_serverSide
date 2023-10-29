@@ -7,3 +7,4 @@
 - https://github.com/Jiraplus0304/Java202_2_1.git
 - https://github.com/BomScoob12/RegisterCourses_MVC_InClass/
 - https://github.com/BomScoob12/OnlineShopWebApp_MVC_InClass/
+- https://www.figma.com/file/d60hVz2LghXbap6YCiS5wJ/JAVA?type=whiteboard&node-id=0-1&t=NIBJOEdfGbYk6Wuv-0
